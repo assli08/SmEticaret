@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmEticaret.Mvc", "SmEticaret.Mvc\SmEticaret.Mvc.csproj", "{6DE2A2CF-89B3-494C-95F5-7C2D6694AC32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmEticaret.Data", "SmEticaret.Data\SmEticaret.Data.csproj", "{91B8EEA3-360F-4FD4-A50D-2C4B85C99451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6DE2A2CF-89B3-494C-95F5-7C2D6694AC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DE2A2CF-89B3-494C-95F5-7C2D6694AC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DE2A2CF-89B3-494C-95F5-7C2D6694AC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B8EEA3-360F-4FD4-A50D-2C4B85C99451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B8EEA3-360F-4FD4-A50D-2C4B85C99451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B8EEA3-360F-4FD4-A50D-2C4B85C99451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B8EEA3-360F-4FD4-A50D-2C4B85C99451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
