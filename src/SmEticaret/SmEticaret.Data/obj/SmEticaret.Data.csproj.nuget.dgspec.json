@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Mvc\\SmEticaret.Mvc.csproj": {}
+    "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Data\\SmEticaret.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Mvc\\SmEticaret.Mvc.csproj": {
+    "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Data\\SmEticaret.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Mvc\\SmEticaret.Mvc.csproj",
-        "projectName": "SmEticaret.Mvc",
-        "projectPath": "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Mvc\\SmEticaret.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Data\\SmEticaret.Data.csproj",
+        "projectName": "SmEticaret.Data",
+        "projectPath": "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Data\\SmEticaret.Data.csproj",
         "packagesPath": "C:\\Users\\EMINMERT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Mvc\\obj\\",
+        "outputPath": "C:\\Users\\EMINMERT\\Documents\\GitHub\\SmEticaret\\src\\SmEticaret\\SmEticaret.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EMINMERT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,9 +61,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
